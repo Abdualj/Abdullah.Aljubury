@@ -1,0 +1,43 @@
+export const projects = [
+  {
+    title: 'Rar Car – Car Dealership Platform',
+    description: 'Full-stack dealership platform with inventory management, admin dashboard, and customer-facing sales interface. Built with vanilla JavaScript and Google APIs, deployed on Netlify. Includes authentication, CRUD operations, and responsive UI.',
+    role: 'Full-Stack Developer',
+    tech: ['HTML', 'CSS', 'JavaScript', 'Google Apps Script', 'Google API', 'Netlify'],
+    liveUrl: 'https://rar-car.netlify.app',
+    githubUrl: 'https://github.com/Abdualj/rar-car',
+    iframeUrl: 'https://rar-car.netlify.app',
+  },
+  {
+    title: 'Al Pasha Market – Retail Website',
+    description: 'Commercial responsive website for an oriental market with product showcase and business presentation. Features modern UI/UX, optimized performance, and mobile-first design with Google APIs integration.',
+    role: 'Frontend Developer',
+    tech: ['HTML', 'CSS', 'JavaScript', 'Google APIs', 'Netlify'],
+    liveUrl: 'https://alpashamarket.netlify.app',
+    githubUrl: 'https://github.com/Abdualj/alpasha',
+    iframeUrl: 'https://alpashamarket.netlify.app',
+  },
+  {
+    title: 'Junction Hackathon Landing Page',
+    description: 'High-traffic event landing page built in a team for one of Europe\'s largest hackathons. Optimized for performance, responsiveness, and conversion with thousands of daily visitors.',
+    role: 'Frontend Developer (Team)',
+    tech: ['TypeScript', 'HTML', 'CSS', 'Performance Optimization'],
+    liveUrl: 'https://hackjunction.com',
+    iframeUrl: 'https://hackjunction.com',
+  },
+  {
+    title: 'Barcode & QR Automation System',
+    description: 'Google Apps Script system that generates barcodes and multilingual ingredient QR codes. Integrates with OpenFoodFacts API to display product information in Finnish, Swedish, and English. Includes barcode generation for inventory management.',
+    role: 'Backend Developer & Automation Engineer',
+    tech: ['Google Apps Script', 'REST API', 'OpenFoodFacts API', 'QR/Barcode Generation'],
+    iframeUrl: '/Barcodescanner.png',
+  },
+  {
+    title: 'Social Media Platform (In Development)',
+    description: 'Full-stack social media mobile application currently in design and development phase. Features comprehensive UI/UX design in Figma with plans for complete implementation using React Native and Node.js backend.',
+    role: 'Full-Stack Developer & UI/UX Designer',
+    tech: ['React Native', 'TypeScript', 'CSS', 'Node.js', 'Figma', 'In Progress'],
+    liveUrl: 'https://park-rabid-40787467.figma.site',
+    iframeUrl: 'https://park-rabid-40787467.figma.site',
+  },
+]
