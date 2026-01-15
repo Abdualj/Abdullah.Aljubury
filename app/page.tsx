@@ -174,7 +174,7 @@ export default function Portfolio() {
       <section id="contact" className="max-w-5xl mx-auto px-6 py-16 text-center">
         <h2 className="text-4xl font-bold mb-6">Get In Touch</h2>
         <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
-          I'm currently open to new opportunities. Whether you have a question or just want 
+          I&apos;m currently open to new opportunities. Whether you have a question or just want 
           to say hi, feel free to reach out!
         </p>
         <div className="flex justify-center gap-6">

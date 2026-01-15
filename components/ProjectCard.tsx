@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion'
 import { ExternalLink, Github } from 'lucide-react'
 import { useState } from 'react'
+import Image from 'next/image'
 
 interface Project {
   title: string
@@ -40,10 +41,11 @@ export default function ProjectCard({ project, index }: ProjectCardProps) {
       >
         {showIframe ? (
           isImage ? (
-            <img
+            <Image
               src={project.iframeUrl}
               alt={project.title}
-              className="w-full h-full object-contain"
+              fill
+              className="object-contain"
             />
           ) : (
             <iframe
