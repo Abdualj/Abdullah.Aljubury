@@ -78,7 +78,7 @@ export const resumeData = {
       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "React Native", "Tailwind CSS", "Responsive Design"],
       backend: ["Node.js (Basic)", "REST APIs", "Google Apps Script", "Google APIs", "MySQL"],
       database: ["MySQL", "PostgreSQL"],
-      tools: ["Git", "GitHub", "Figma", "Vercel", "Netlify", "VS Code", "Mando System", "Flatpay", "Microsoft Office"],
+      tools: ["Git", "GitHub", "Figma", "Vercel", "Netlify", "VS Code", "Mando System", "Flatpay", "Jira", "Microsoft Office"],
       soft: ["Team Leadership", "Customer Service", "Project Coordination", "Problem Solving", "Time Management", "Adaptability", "Entrepreneurial Mindset"]
     },
     projects: [
@@ -213,7 +213,7 @@ export const resumeData = {
       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "React Native", "Tailwind CSS", "Responsiivinen suunnittelu"],
       backend: ["Node.js (Perustaso)", "REST APIit", "Google Apps Script", "Google APIit", "MySQL"],
       database: ["MySQL", "PostgreSQL"],
-      tools: ["Git", "GitHub", "Figma", "Vercel", "Netlify", "VS Code", "Mando-järjestelmä", "Flatpay", "Microsoft Office"],
+      tools: ["Git", "GitHub", "Figma", "Vercel", "Netlify", "VS Code", "Mando-järjestelmä", "Flatpay", "Jira", "Microsoft Office"],
       soft: ["Tiimin johtaminen", "Asiakaspalvelu", "Projektien koordinointi", "Ongelmanratkaisu", "Ajanhallinta", "Sopeutumiskyky", "Yrittäjähenkisyys"]
     },
     projects: [
